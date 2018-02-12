@@ -1,0 +1,114 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Admin\Desktop\VHDL\Lab Work\150240133004\Lab 3 B\Q4\Sim
+Ecomp_rc
+Z0 w1428779478
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Admin\Desktop\VHDL\Lab Work\150240133004\Lab 3 B\Q7\Sim
+Z4 8C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/comp_rc.vhd
+Z5 FC:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/comp_rc.vhd
+l0
+L4
+V9fd35MCKZNm8mU?^e8G<30
+Z6 OE;C;10.1d;51
+32
+Z7 !s108 1428832373.937000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/comp_rc.vhd|
+Z9 !s107 C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/comp_rc.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 gVGc_;ESR:Cc?:DbXM>Ah0
+!i10b 1
+Aarch_rc
+R1
+R2
+DEx4 work 7 comp_rc 0 22 9fd35MCKZNm8mU?^e8G<30
+32
+l19
+L10
+ViahdJGlzgQm9SCQEA8RLP1
+R6
+R7
+R8
+R9
+R10
+R11
+!s100 Pn@d]HLI[=4PaCZH41^oC2
+!i10b 1
+Ering_counter_6bit
+Z12 w1428773456
+Z13 DPx6 unisim 11 vcomponents 0 22 ^SgSiH]fe0j`VL_8Rhmkj2
+Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z15 8C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/ring_counter_6bit.vhf
+Z16 FC:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/ring_counter_6bit.vhf
+l0
+L28
+Vn]jeNSSKYe[I?`RgCeIDg3
+R6
+32
+Z17 !s108 1428832374.218000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/ring_counter_6bit.vhf|
+Z19 !s107 C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/ring_counter_6bit.vhf|
+R10
+R11
+!s100 66HlB7Em4H3z>NTeCzJ4[2
+!i10b 1
+Abehavioral
+R13
+R14
+R1
+R2
+DEx4 work 17 ring_counter_6bit 0 22 n]jeNSSKYe[I?`RgCeIDg3
+32
+l48
+L35
+VTZO2XX6VW?DHRPd_eNdH13
+R6
+R17
+R18
+R19
+R10
+R11
+!s100 ;Q;I6[ZdCAW1FcNTBBo1i1
+!i10b 1
+Etest
+Z20 w1428780108
+R1
+R2
+R3
+Z21 8C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/004_tb.vhd
+Z22 FC:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/004_tb.vhd
+l0
+L4
+V:KJZ;39A]`LmT@WBf`g5O3
+R6
+32
+Z23 !s108 1428832373.625000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/004_tb.vhd|
+Z25 !s107 C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Src/004_tb.vhd|
+R10
+R11
+!s100 aN[iXoHO1FJCzGSoH6FHz1
+!i10b 1
+Aarch_test
+R1
+R2
+DEx4 work 4 test 0 22 :KJZ;39A]`LmT@WBf`g5O3
+32
+l15
+L7
+V]izIf^X5P5?hcbD`VIDTb3
+R6
+R23
+R24
+R25
+R10
+R11
+!s100 W0bY;R`ZZ]6TB;=9SdOR>0
+!i10b 1

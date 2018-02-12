@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "D:/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.xst" -ofn "D:/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.syr" 
+sch2vhdl -intstyle ise -family virtex4 -tionly -w {D:/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.sch} ring_counter_6bit.vhi 
+sch2hdl -intstyle ise -family virtex4 -flat -suppress -vhdl ring_counter_6bit.vhf -w {D:/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.sch} 
+sch2vhdl -intstyle ise -family virtex4 -tionly -w {D:/VHDL/Lab Work/150240133004/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.sch} ring_counter_6bit.vhi 
+sch2hdl -intstyle ise -family virtex4 -flat -suppress -vhdl ring_counter_6bit.vhf -w {E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.sch} 
+xst -intstyle ise -ifn "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.xst" -ofn "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.syr" 
+sch2vhdl -intstyle ise -family virtex4 -tionly -w {E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.sch} ring_counter_6bit.vhi 
+xst -intstyle ise -ifn "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.xst" -ofn "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.syr" 
+sch2vhdl -intstyle ise -family virtex4 -tionly -w {E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q7/Synth/ring_counter/ring_counter_6bit.sch} ring_counter_6bit.vhi 

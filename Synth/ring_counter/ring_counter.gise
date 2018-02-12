@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="ring_counter.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="ring_counter_6bit.cmd_log"/>
+    <file xil_pn:fileType="FILE_JHD" xil_pn:name="ring_counter_6bit.jhd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="ring_counter_6bit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="ring_counter_6bit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="ring_counter_6bit.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ring_counter_6bit.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="ring_counter_6bit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="ring_counter_6bit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_VHDL" xil_pn:name="ring_counter_6bit.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="ring_counter_6bit.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="ring_counter_6bit.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ring_counter_6bit_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ring_counter_6bit_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ring_counter_6bit_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ring_counter_6bit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1428602789" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1428602789">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1428773455" xil_pn:in_ck="-7308216965652199985" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="3246447351204688412" xil_pn:start_ts="1428773453">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ring_counter_6bit.vhf"/>
+    </transform>
+    <transform xil_pn:end_ts="1428602791" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-7166486535837308854" xil_pn:start_ts="1428602791">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1428602791" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1428602791">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1428602791" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="2148864368302570000" xil_pn:start_ts="1428602791">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1428759343" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-8778426009117880047" xil_pn:start_ts="1428759343">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1428602791" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-5006743009111573612" xil_pn:start_ts="1428602791">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1428773466" xil_pn:in_ck="-7308216965652196555" xil_pn:name="TRANEXT_xstsynthesize_virtex4" xil_pn:prop_ck="2124297565918802054" xil_pn:start_ts="1428773455">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="ring_counter_6bit.jhd"/>
+      <outfile xil_pn:name="ring_counter_6bit.lso"/>
+      <outfile xil_pn:name="ring_counter_6bit.ngc"/>
+      <outfile xil_pn:name="ring_counter_6bit.ngr"/>
+      <outfile xil_pn:name="ring_counter_6bit.prj"/>
+      <outfile xil_pn:name="ring_counter_6bit.stx"/>
+      <outfile xil_pn:name="ring_counter_6bit.syr"/>
+      <outfile xil_pn:name="ring_counter_6bit.xst"/>
+      <outfile xil_pn:name="ring_counter_6bit_vhdl.prj"/>
+      <outfile xil_pn:name="ring_counter_6bit_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>
